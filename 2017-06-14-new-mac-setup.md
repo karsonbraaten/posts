@@ -6,16 +6,10 @@
 * [Android Studio](https://developer.android.com/studio/install.html)
 * [Visual Studio Code](https://code.visualstudio.com/download)
     * Angular Language Service - Angular
-    * TSLint - egamma
-    * Path Intellisense - Christian Kohler
-    * Angular v4 TypeScript Snippets - johnpapa (optional) 
-    * GitLens - Eric Amodio (optional)
-* [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 * [Node.js](https://nodejs.org/en/)
-    * npm install -g yarn
+    * sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
     * npm install -g @angular/cli
     * npm install -g firebase-tools
-* [NativeScript](http://docs.nativescript.org/angular/start/ns-setup-os-x)
 
 ## System Preferences
 
