@@ -14,6 +14,7 @@
 * [Node.js](https://nodejs.org/en/)
     * npm install -g yarn
     * npm install -g @angular/cli
+    * npm install -g firebase-tools
 * [NativeScript](http://docs.nativescript.org/angular/start/ns-setup-os-x)
 
 ## System Preferences
