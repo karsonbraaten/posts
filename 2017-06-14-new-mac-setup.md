@@ -3,6 +3,7 @@
 ## Applications
 
 * [Xcode](https://itunes.apple.com/ca/app/xcode/id497799835?mt=12)
+* [Flutter](https://flutter.dev/docs/get-started/install/macos)
 * [Android Studio](https://developer.android.com/studio/install.html)
 * [Visual Studio Code](https://code.visualstudio.com/download)
     * Angular Language Service - Angular
